@@ -1,0 +1,6 @@
+gradio 
+ollama 
+langchain 
+langchain-ollama 
+bs4 
+chromadb
